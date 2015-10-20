@@ -1,3 +1,4 @@
+#!venv/bin/python
 __author__ = 'alisonbnt'
 
 from app import app
